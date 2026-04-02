@@ -2,18 +2,18 @@ This project is a Gym Management System developed in C++ using a procedural prog
 
 The system allows users to manage gym member records such as adding, viewing, updating, and deleting information. Data is stored using file handling, making it easy to save and retrieve records.
 
-🚀 Features
-Add new gym members
+🚀 Features <br>
+Add new gym members  <br>
 View all member records
-Search specific member details
-Update existing records
-Delete member data
-File handling for data storage
-Simple console-based interface
-🛠️ Technologies Used
-C++
-Procedural Programming
-File Handling
+Search specific member details <br>
+Update existing records <br>
+Delete member data <br>
+File handling for data storage <br>
+Simple console-based interface <br>
+🛠️ Technologies Used <br>
+C++ <br>
+Procedural Programming <br>
+File Handling <br>
 🎯 Purpose
 
 This project is created to practice basic C++ concepts, including functions, loops, conditionals, and file handling, without using OOP.
