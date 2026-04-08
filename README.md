@@ -10,10 +10,11 @@ Update existing records <br>
 Delete member data <br>
 File handling for data storage <br>
 Simple console-based interface <br>
+
 🛠️ Technologies Used <br>
 C++ <br>
 Procedural Programming <br>
 File Handling <br>
 🎯 Purpose
 
-This project is created to practice basic C++ concepts, including functions, loops, conditionals, and file handling, without using OOP.
+This project is created to practice basic C++ concepts, including functions, loops, conditionals, and file handling.
