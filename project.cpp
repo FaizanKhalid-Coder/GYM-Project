@@ -1,5 +1,6 @@
 #include <iostream>   
 #include <fstream>   
+#include <vector>
 #include <string>     
 using namespace std;
 struct Member {
@@ -11,7 +12,8 @@ struct Member {
 struct Trainer {
     int id;                    
     string name;                
-    string specialization;     
+    string specialization;
+};
 struct Attendance {
     int memberID;      
     string date;       
