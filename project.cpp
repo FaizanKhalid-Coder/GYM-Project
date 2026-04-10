@@ -164,16 +164,13 @@ void addFee() {
     cout << "Enter Fee Amount: ";
     cin >> f.amount;
     cin.ignore();
-
     cout << "Enter Date: ";
     getline(cin, f.date);
-
     ofstream file("fees.txt", ios::app);
     file << f.memberID << "\n"
         << f.amount << "\n"
         << f.date << "\n";
     file.close();
-
     cout << "Fee Added Successfully!\n";
 }
 void searchFee() {
