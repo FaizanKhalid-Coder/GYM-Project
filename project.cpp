@@ -116,10 +116,8 @@ void addTrainer() {
     cin.ignore();
     cout << "Enter Name: ";
     getline(cin, t.name);
-
     cout << "Enter Specialization: ";
     getline(cin, t.specialization);
-
     trainers.push_back(t);
     saveTrainers();
     cout << "Trainer Added Successfully!\n";
