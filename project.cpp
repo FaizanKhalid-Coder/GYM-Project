@@ -91,7 +91,6 @@ void searchMember() {
 void loadTrainers() {
     ifstream file("trainers.txt");
     Trainer t;
-
     while (file >> t.id) {
         file.ignore();
         getline(file, t.name);
@@ -177,10 +176,8 @@ void searchFee() {
     int id, mid, amount;
     string date;
     bool found = false;
-
     cout << "Enter Member ID: ";
     cin >> id;
-
     ifstream file("fees.txt");
     while (file >> mid >> amount) {
         file.ignore();
