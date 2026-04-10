@@ -182,14 +182,12 @@ void searchFee() {
     while (file >> mid >> amount) {
         file.ignore();
         getline(file, date);
-
         if (mid == id) {
             cout << "Amount: " << amount << " Date: " << date << "\n";
             found = true;
         }
     }
     file.close();
-
     if (!found)
         cout << "No Fee Record Found!\n";
 }
@@ -198,7 +196,6 @@ void viewFees() {
     ifstream file("fees.txt");
     int mid, amount;
     string date;
-
     while (file >> mid >> amount) {
         file.ignore();
         getline(file, date);
