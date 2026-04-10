@@ -52,10 +52,8 @@ void addMember() {
     cout << "Enter Member ID: ";
     cin >> m.id;
     cin.ignore();
-
     cout << "Enter Name: ";
     getline(cin, m.name);
-
     cout << "Enter Membership Type: ";
     getline(cin, m.type);
 
