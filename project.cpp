@@ -144,14 +144,12 @@ void markAttendance() {
     ofstream file("attendance.txt", ios::app);
     file << a.memberID << "\n" << a.date << "\n";
     file.close();
-
     cout << "Attendance Marked Successfully!\n";
 }
 void viewAttendance() {
     ifstream file("attendance.txt");
     int id;
     string date;
-
     while (file >> id) {
         file.ignore();
         getline(file, date);
@@ -163,7 +161,6 @@ void addFee() {
     Fee f;
     cout << "Enter Member ID: ";
     cin >> f.memberID;
-
     cout << "Enter Fee Amount: ";
     cin >> f.amount;
     cin.ignore();
