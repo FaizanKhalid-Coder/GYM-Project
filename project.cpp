@@ -56,10 +56,8 @@ void addMember() {
     getline(cin, m.name);
     cout << "Enter Membership Type: ";
     getline(cin, m.type);
-
     cout << "Enter Expiry Date: ";
     getline(cin, m.expiry);
-
     members.push_back(m);   
     saveMembers();          
     cout << "Member Added Successfully!\n";
@@ -116,7 +114,6 @@ void addTrainer() {
     cout << "Enter Trainer ID: ";
     cin >> t.id;
     cin.ignore();
-
     cout << "Enter Name: ";
     getline(cin, t.name);
 
