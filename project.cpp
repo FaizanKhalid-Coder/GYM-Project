@@ -208,7 +208,6 @@ void viewFees() {
 int main() {
     loadMembers();
     loadTrainers();
-
     int choice;
 
     while (true) {
