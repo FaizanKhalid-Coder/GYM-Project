@@ -209,7 +209,6 @@ int main() {
     loadMembers();
     loadTrainers();
     int choice;
-
     while (true) {
         cout << "\n===== GYM MANAGEMENT SYSTEM =====\n";
         cout << "1. Add Member\n";
