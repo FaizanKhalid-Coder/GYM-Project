@@ -210,7 +210,7 @@ int main() {
     loadTrainers();
     int choice;
     while (true) {
-        cout << "\n===== GYM MANAGEMENT SYSTEM ========\n";
+        cout << "\n======== GYM MANAGEMENT SYSTEM ========\n";
         cout << "1. Add Member\n";
         cout << "2. Display Members\n";
         cout << "3. Search Member\n";
