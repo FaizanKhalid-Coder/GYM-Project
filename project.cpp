@@ -224,7 +224,6 @@ int main() {
         cout << "11. Exit\n";
         cout << "Enter Choice: ";
         cin >> choice;
-
         switch (choice) {
         case 1: addMember(); break;
         case 2: displayMembers(); break;
