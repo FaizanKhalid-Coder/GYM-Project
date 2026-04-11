@@ -206,7 +206,6 @@ void viewFees() {
     file.close();
 }
 int main() {
-
     loadMembers();
     loadTrainers();
 
