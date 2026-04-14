@@ -8,7 +8,7 @@ View all member records <br>
 Add Fees of member <br>
 Fees Record <br>
 Search specific member details <br>
-Update existing records <br>
+Update existing records 
 Delete member data <br>
 File handling for data storage <br>
 Simple console-based interface <br>
