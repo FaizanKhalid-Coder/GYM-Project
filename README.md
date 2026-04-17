@@ -7,7 +7,7 @@ Add new gym members  <br>
 View all member records <br>
 Add Trainers <br>
 Display Trainers <br>
-Marked the 
+Marked the Attendance 
 view Attendance <br>
 Add Fees of member <br>
 Fees Record <br>
