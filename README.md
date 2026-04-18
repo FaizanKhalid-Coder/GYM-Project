@@ -11,7 +11,7 @@ Display Trainers <br>
 Marked the Attendance <br>
 view Attendance <br>
 Add Fees of member <br>
-Fees Record <br>
+Search Fees Record <br>
 Search specific member details <br>
 Delete member data <br>
 File handling for data storage <br>
