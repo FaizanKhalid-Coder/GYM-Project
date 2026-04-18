@@ -1,5 +1,4 @@
-This project is a Gym Management System developed in C++ using a procedural programming approach. It is designed to manage basic gym operations in a simple and efficient way without using object-oriented concepts.
-
+This project is a Gym Management System developed in C++ using a procedural programming approach. It is designed to manage basic gym operations in a simple and efficient way without using object-oriented concepts.<br>
 The system allows users to manage gym member records such as adding, viewing, updating, and deleting information. Data is stored using file handling, making it easy to save and retrieve records.
 
 🚀 Features <br>
