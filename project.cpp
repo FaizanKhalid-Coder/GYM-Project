@@ -236,7 +236,7 @@ int main() {
         case 9: searchFee(); break;
         case 10: viewFees(); break;
         case 11: cout << "Exiting Program...\n"; return 0;
-        default: cout << "Invalid Choice. Choice the given number B/W 1 to \n";
+        default: cout << "Invalid Choice. Choice the given number B/W 1 to 10\n";
         }
     }
 }
