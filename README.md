@@ -15,7 +15,7 @@ Search Fees Record <br>
 Search specific member details <br>
 Delete member data <br>
 File handling for data storage <br>
-Exist Option <br>
+Exist Option 
 Simple console-based interface <br>
 
 🛠️ Technologies Used <br>
