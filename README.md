@@ -4,8 +4,8 @@ The system allows users to manage gym member records such as adding, viewing, an
 
 🚀 Features <br>
 Add new gym members <br>
-View all member records<br>
-Search member<br>
+View all member records <br>
+Search member <br>
 Add Trainers<br>
 Display Trainers<br>
 Marked the Attendance<br>
