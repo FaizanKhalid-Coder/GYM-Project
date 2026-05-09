@@ -6,9 +6,9 @@ The system allows users to manage gym member records such as adding, viewing, an
 Add new gym members <br>
 View all member records <br>
 Search member <br>
-Add Trainers<br>
-Display Trainers<br>
-Marked the Attendance<br>
+Add Trainers <br>
+Display Trainers <br>
+Marked the Attendance <br>
 view Attendance <br>
 Add Fees of member <br>
 Search Fees Record <br>
