@@ -3,7 +3,7 @@ This project is a Gym Management System developed in C++ using a procedural prog
 The system allows users to manage gym member records such as adding, viewing, and store information. Data is stored using file handling, making it easy to save and retrieve records.
 
 🚀 Features<br>
-Add new gym members <br>
+Add new gym members<br>
 View all member records <br>
 Search member <br>
 Add Trainers<br>
