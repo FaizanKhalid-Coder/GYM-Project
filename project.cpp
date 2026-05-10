@@ -236,7 +236,7 @@ int main() {
         case 9: searchFee(); break;
         case 10: viewFees(); break;
         case 11: cout << "Exiting Program...\n"; return 0;
-        default: cout << "Invalid Choice. Enter the valid choice between 1 to 10.\n";
+        default: cout << "Invalid Choice. Enter the valid choice between 1 to 1.\n";
         }
     }
 }
